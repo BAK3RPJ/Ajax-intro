@@ -1,0 +1,8 @@
+.classyFlex {
+    display: flex;
+    height: 20vh;
+    border-radius: 20px;
+    background: gray;
+    justify-content: center;
+    align-items: center;
+}
